@@ -1,8 +1,8 @@
 ---
 layout: page
 published: true
-permalink: about/
-title: Untitled
+permalink: test/
+title: Super Test
 ---
 
 Super cool
